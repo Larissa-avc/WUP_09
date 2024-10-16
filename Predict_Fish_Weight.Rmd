@@ -191,8 +191,11 @@ the best model is all the variables
 
 ### Best Two regressor model
 
-the model using height and width
+the model height and width
 
 ## Final Summary Statements
+
+In Perch, Pike, and Roach all the models are the best model since we used height and width for all three. Also the helper filed used was Best Subset Regression.
+
 
 
