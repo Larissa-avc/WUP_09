@@ -51,6 +51,15 @@ Whitefish <- select(Whitefish, -Species)
 
 ## Perch
 
+Find the best 2 predictors for the weight of the perch.
+
+```{r}
+Perchwtall=lm(Weight~.-Weight,data=Perch)
+summary(Perchwtall)
+```
+
+
+
 ### Best Models
 
 ### Best Two regressor model
