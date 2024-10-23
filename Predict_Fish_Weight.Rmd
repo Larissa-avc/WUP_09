@@ -144,7 +144,7 @@ the best model is all the variables
 
 ### Best Two regressor model
 
-the model using height and width 
+the best 2 regression models are length 1 and length 3
 
 ## Roach
 
@@ -191,10 +191,8 @@ the best model is all the variables
 
 ### Best Two regressor model
 
-the model height and width
+the best two regression models are length 3 and width 
 
 ## Final Summary Statements
 
-In conclusion the helper file used is bestsubset regression. the best regresser model for perch were height and width. The best regressor model for pike was length1 and length 3. the best regression model for roach were length3 and width in perch, pike, and roach all the variables were the best model
-
-
+In conclusion the helper file used is bestsubset regression. the best regresser model for perch was height and width. The best regression model for pike was length1 and length 3. the best regression model for roach were length3 and width.
